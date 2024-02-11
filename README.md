@@ -4,7 +4,7 @@ Ethexplorer is a blockchain explorer application for the Ethereum network. It al
 
 #Youtube vedio url :
 
-http://
+https://youtu.be/62Lf0-s8-Hs?si=KuYv2XZ0Dqt_Szo8
 
 # Technology Stack
 
@@ -70,4 +70,4 @@ The project follows a full-stack approach using React.js for the frontend and Ex
 
 #Youtube vedio url :
 
-http://rathorejaimal
+https://youtu.be/62Lf0-s8-Hs?si=KuYv2XZ0Dqt_Szo8
